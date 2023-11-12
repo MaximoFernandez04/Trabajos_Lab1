@@ -67,7 +67,7 @@ public class ejercicio_10 {
         miCoche.mostrarVelocidad();
 
         //Pelicula
-        Pelicula miPelicula=new Pelicula("Cars 1","John Lasseter",116);
+        Pelicula miPelicula=new Pelicula("Rapidos y furiosos 10","Louis Leterrier ",140);
         miPelicula.MostrarDatos();
     }
     public static class Perro{
